@@ -9,8 +9,9 @@
 - Treasurer
 
 ### Login functionality
-### Menu Navigation
-### File based Database
+### Menu navigation
+### File based database
+### ASCII graphics in terminal
 
 ## Technologies:
 - Java
